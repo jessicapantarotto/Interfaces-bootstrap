@@ -1,0 +1,2 @@
+# Curso de Interfaces Web com Bootstrap
+Este repositório contém os arquivos e materiais utilizados no curso de Interfaces Web com Bootstrap. O objetivo do curso é ensinar os princípios básicos do framework Bootstrap para criar layouts responsivos e modernos para sites e aplicações web.
